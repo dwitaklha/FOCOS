@@ -49,33 +49,33 @@
       "id" : 0,
       "imageURL" : "https://dwitaklha.github.io/FOCOS/guide1.png",
       "state" : "free",
-      "title" : "",
+      "title" : "Large aperture and real bokeh effect",
       "description" : "",
-      "written" : ""
+      "written" : "Focos brings DSLR-like photography to your iPhone with big aperture and real bokeh effect, which most photographers have always desired."
     },
     {
       "id" : 1,
       "imageURL" : "https://dwitaklha.github.io/FOCOS/guide2.png",
       "state" : "free",
-      "title" : "steps 1",
+      "title" : "Tap to focus after shooting",
       "description" : "",
-      "written" : ""
+      "written" : "Portrait photo with depth data allows you to focus after shooting like the hacker technology."
     },
     {
       "id" : 2,
       "imageURL" : "https://dwitaklha.github.io/FOCOS/guide3.png",
       "state" : "free",
-      "title" : "steps 2",
+      "title" : "Kinds of diaphragms",
       "description" : "",
-      "written" : ""
+      "written" : "Various diaphragms generate different bokeh spot effects. It's the fun of out-of-focus."
     },
     {
       "id" : 3,
       "imageURL" : "https://dwitaklha.github.io/FOCOS/guide4.png",
       "state" : "free",
-      "title" : "steps 3",
+      "title" : "Professional-grade lens",
       "description" : "",
-      "written" : ""
+      "written" : "Professional options simulate the pro lens such as creamy, bilinear, swirl and so on. Creamy is the characteristic of good lens and makes the edge of bokeh spot softer. Bilinear is the shortcoming of some lens but can stoke spot. Swirly lens highlights center object surrounded by swirly bokeh."
     }
   ]
 }
